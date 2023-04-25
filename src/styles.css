@@ -1,3 +1,9 @@
+body{
+    background-image: url(../src/assets/ima/fondop.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
 .tipoLetra{
     font-family: 'Lora', serif;
     
